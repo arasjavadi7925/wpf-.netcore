@@ -1,0 +1,9 @@
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\wpf-gui.csprojAssemblyReference.cache
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\Styles\TextBlock.baml
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\Styles\_FontSizes.baml
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\Styles\_Thickness.baml
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\Views\MainPage.g.cs
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\wpf-gui_MarkupCompile.cache
+C:\Users\alireza\source\repos\wpf-gui\wpf-gui\obj\Debug\netcoreapp3.1\wpf-gui_MarkupCompile.lref
